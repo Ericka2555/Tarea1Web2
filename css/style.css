@@ -1,0 +1,100 @@
+
+#muñeco{
+    background-color: rgb(222, 159, 224);
+    width: 200px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 50px;
+}
+#cajam1{
+    background-color: rgb(247, 248, 252);
+    margin: auto;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+}
+#cajam2{
+    background-color: rgb(247, 248, 252);
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+#cajam3{
+    background-color: rgb(247, 248, 252);
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+#mano1{
+    background-color: rgb(247, 248, 252);
+    height: 10px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 100px;
+    float: right;
+}
+#mano2{
+    background-color: rgb(247, 248, 252);
+    height: 10px;
+    width: 200px;
+    margin-top: -10px;
+    margin-right: 100px;
+    float: left;
+}
+    #ojo1{
+        background-color: rgb(107, 123, 187);
+        border-radius: 50px;
+        height: 20px;
+        width: 20px;
+        margin-top: 22px;
+        margin-right:18px;
+        float: right;
+    }
+    #ojo2{
+        background-color: rgb(107, 123, 187);
+        border-radius: 50px;
+        height: 20px;
+        width: 20px;
+        margin-top: 22px;
+        margin-left:18px;
+        float: left;
+    }
+#nariz{
+    background-color: rgb(209, 91, 56);
+    height: 10px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+}
+#bot1{
+    margin: auto;
+    background-color: rgb(110, 37, 133);
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+}
+#bot2{
+    background-color: rgb(110, 37, 133);
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    margin-top: 10px;
+}
+#bot3{
+    background-color: rgb(110, 37, 133);
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+
+
